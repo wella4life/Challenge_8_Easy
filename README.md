@@ -12,6 +12,7 @@
    - Using :after with :after:hover can seperate the background from the content
    - Using opacity on only the background helped quite a lot
    - in-boxing everything helps when thinking of padding the content to fit
+   - wait for the github website to load before posting solution
  
  - What I Couldn't Do:
    - Mobile Version would take time and I am lazy but its easy to do
