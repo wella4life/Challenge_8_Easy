@@ -1,5 +1,5 @@
 - Overview:
-  - [Single Pricec Grid Component](#the-challenge)
+  - [Single Price Grid Component](#the-challenge)
   - [https://wella4life.github.io/Challenge_8_Easy/](#links)
   - ![](images/Finished-Desktop.jpg)
 
